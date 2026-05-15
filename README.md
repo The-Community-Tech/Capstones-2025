@@ -11,7 +11,7 @@ __Capstone Title:__ _Consumer Financial Services Complaints: Leveraging CFPB to 
  Submission             | Link       |
 |------------------------|------------|
 | 📄 Proposal Document   | [Link](./proposals/syd_levy_proposal.pdf) |
-| 📊 Proposal Presentation | [Link](./propostal_presentations/syd_levy_proposal_presentation.pdf) |
+| 📊 Proposal Presentation | [Link](./proposal_presentations/syd_levy_proposal_presentation.pdf) |
 | 🗣️ Final Presentation  |  [Link](./final_presentations/syd_levy_final_presentation.pdf) |
 
 
@@ -33,7 +33,7 @@ __Capstone Title:__ _What Makes a Game Great? Genre and Rating Disparities in Us
  Submission             | Link       |
 |------------------------|------------|
 | 📄 Proposal Document   | [Link](./proposals/eden_nuhamovici_proposal.pdf) |
-| 📊 Proposal Presentation | [Link](./propostal_presentations/eden_nuhamovici_proposal_presentation.pdf) |
+| 📊 Proposal Presentation | [Link](./proposal_presentations/eden_nuhamovici_proposal_presentation.pdf) |
 | 🗣️ Final Presentation  | [Link](./final_presentations/eden_nuhamovici_final_presentation.pdf) |
 
 
@@ -45,7 +45,7 @@ __Capstone Title:__ _Problematic Internet Use: Mental health detection based on 
  Submission             | Link       |
 |------------------------|------------|
 | 📄 Proposal Document   |  [Link](./proposals/daniel_epstein_proposal.pdf)|
-| 📊 Proposal Presentation | [Link](./propostal_presentations/daniel_epstein_proposal_presentation.pdf) |
+| 📊 Proposal Presentation | [Link](./proposal_presentations/daniel_epstein_proposal_presentation.pdf) |
 | 🗣️ Final Presentation  | [Link](./final_presentations/daniel_epstien_final_presentation.pdf) |
 
 
@@ -58,7 +58,7 @@ __Capstone Title:__ _One Year At A Time: Analyzing Mental Health Trends by Acade
  Submission             | Link       |
 |------------------------|------------|
 | 📄 Proposal Document   | [Link](./proposals/david_katscher_proposal.pdf) |
-| 📊 Proposal Presentation | [Link](./propostal_presentations/david_katscher_proposal_presentation.pdf)|
+| 📊 Proposal Presentation | [Link](./proposal_presentations/david_katscher_proposal_presentation.pdf)|
 | 🗣️ Final Presentation  |  [Link](./final_presentations/david_katscher_final_presentation.pdf)|
 
 To learn more about The Community Tech, visit our website [here](https://www.thecommunitytech.com/).
