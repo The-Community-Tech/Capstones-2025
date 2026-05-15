@@ -1,4 +1,5 @@
-<img width="1068" height="422" alt="image" src="https://github.com/user-attachments/assets/d63fbdf1-f36a-4a39-8330-a5ce74709196" />
+![image](https://github.com/user-attachments/assets/ff95e45e-e3f9-4b0c-98f8-f708d97eaf97)
+
 # 2025 Capstones
 
 This repository highlights the final projects of our 2025 cohort, where each student employed data analysis to investigate real-world problems. From financial services to mental health, gaming to multilingual sentiment analysis, these capstones demonstrate our cohort's creativity, analytical thinking, and communication of insights.
@@ -21,7 +22,7 @@ __Capstone Title:__ _Multilingual Sentiment Analysis of Tweets Using Pre-trained
  Submission             | Link       |
 |------------------------|------------|
 | 📄 Proposal Document   | [Link](./proposals/yuval_caspi_proposal.pdf) |
-| 📊 Proposal Presentation | [Link](./propostal_presentations/yuval_caspi_proposal_presentation.pdf) |
+| 📊 Proposal Presentation | [Link](./proposal_presentations/yuval_caspi_proposal_presentation.pdf) |
 | 🗣️ Final Presentation  |   [Link](./final_presentations/yuval_caspi_final_presentation.pdf)|
 
 
@@ -62,5 +63,3 @@ __Capstone Title:__ _One Year At A Time: Analyzing Mental Health Trends by Acade
 | 🗣️ Final Presentation  |  [Link](./final_presentations/david_katscher_final_presentation.pdf)|
 
 To learn more about The Community Tech, visit our website [here](https://www.thecommunitytech.com/).
-
-
